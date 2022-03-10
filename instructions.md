@@ -1,3 +1,5 @@
+<!-- these are instructions that were provided by the bootcamp -->
+
 # 12 SQL: Employee Tracker
 
 ## Your Task

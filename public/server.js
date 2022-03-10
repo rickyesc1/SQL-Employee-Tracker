@@ -1,3 +1,5 @@
+// connection and DB stuff done on my own, this code answers the bonus questions on the readme, it was found in the class repository. 
+
 const { prompt } = require("inquirer");
 const logo = require("asciiart-logo");
 //import connection.js's created DB
